@@ -25,7 +25,7 @@ This repository contains a single GitHub Actions workflow (`main.yml`) used for 
 To keep a copy of this configuration for your own automation needs:
 
 ```bash
-git clone https://github.com/mabdullahchaudhary/free-rdp.git
+git clone https://github.com/mabdullahchaudhary/rdp1.git
 ```
 
 <br/><br/>
